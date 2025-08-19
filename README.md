@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phongdz76&theme=nightowl" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhchi521&theme=nightowl" alt="GitHub Activity Graph" />
 </p>
 
 
