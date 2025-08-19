@@ -1,7 +1,7 @@
 <h1>Hello Everyone</h1>
 
   ## 🚀 About Me
- <li>👋 Hi, I’m @phongdz76 aka Nguyễn Hồ Thanh Phong</li>
+ <li>👋 Hi, I’m Trần Võ Minh Chí</li>
  <li> I 💖 Anime</li>
  <li> I 🕹️ Valorant, Genshin Impact, Master Duel
  <li><em>Front-end Developer | Android Development</em></li>
@@ -61,7 +61,7 @@
 
 Got an exciting project or collaboration opportunity? Reach out to me!
 
-- 📧 Email: nguyenhothanhphong5@gmail.com
+- 📧 Email: minhchi521@gmail.com
 
 ## 🎉 Thanks for visiting!
   <img src="https://komarev.com/ghpvc/?username=phongdz76&color=f4d8dc" alt="Profile views">
