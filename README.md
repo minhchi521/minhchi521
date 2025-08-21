@@ -35,12 +35,9 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/fleeforezz"><img src="https://avatars.githubusercontent.com/u/129656223?v=4" width="100px;" alt=""/><br /><sub><b>Minh Nhật</b></sub></a></td>
     <td align="center"><a href="https://github.com/ghaut999"><img src="https://avatars.githubusercontent.com/u/145711398?v=4" width="100px;" alt=""/><br /><sub><b>Minh Quân</b></sub></a></td>
     <td align="center"><a href="https://github.com/phuongnam281204"><img src="https://avatars.githubusercontent.com/u/146837701?v=4" width="100px;" alt=""/><br /><sub><b>Phương Nam</b></sub></a></td>
     <td align="center"><a href="https://github.com/meowlet"><img src="https://avatars.githubusercontent.com/u/151436214?v=4" width="100px;" alt=""/><br /><sub><b>Anh Kiệt</b></sub></a></td>
-    <td align="center"><a href="https://github.com/minhchi521"><img src="https://avatars.githubusercontent.com/u/157143368?v=4" width="100px;" alt=""/><br /><sub><b>Minh Chí</b></sub></a></td>
-    <td align="center"><a href="https://github.com/huyne465"><img src="https://avatars.githubusercontent.com/u/171649596?v=4" width="100px;" alt=""/><br /><sub><b>Gia HUy</b></sub></a></td>
   </tr>
 </table>
 
@@ -48,7 +45,7 @@
 ## 🏆 GitHub Achievements
 <div>
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phongdz76&show_icons=true&theme=nightowl" />
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongdz76&layout=compact&theme=nightowl" alt="Top Languages">
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhchi521&layout=compact&theme=nightowl" alt="Top Languages">
 </div>
 
 <br></br>
