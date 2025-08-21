@@ -4,7 +4,7 @@
  <li>👋 Hi, I’m Trần Võ Minh Chí</li>
  <li> I 💖 Anime</li>
  <li> I 🕹️ Valorant, Genshin Impact, Master Duel
- <li><em>Front-end Developer | Android Development</em></li>
+ <li><em>Front-end Developer | Back-end Developer</em></li>
  
  ## 📫How to reach me: 
  <p align="center">
@@ -44,14 +44,14 @@
 
 ## 🏆 GitHub Achievements
 <div>
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phongdz76&show_icons=true&theme=nightowl" />
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=minhchi521&show_icons=true&theme=nightowl" />
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhchi521&layout=compact&theme=nightowl" alt="Top Languages">
 </div>
 
 <br></br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76&theme=nightowl" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhchi521&theme=nightowl" alt="GitHub Streak">
 </p>
 
 ## 🌐 Get in Touch
